@@ -2,8 +2,9 @@
   display: grid;
   grid-template-columns: [start]26px[endLogo]12px[startTile]auto[endTitle]1fr[startMenu]auto[endMenu]40px[startButton]auto[end];
   align-items: center;
+  justify-content: space-between;
   max-width: 1200px;
-  margin: 0 auto;
+  margin-bottom: 65px;
 }
 
 .header__logo {
