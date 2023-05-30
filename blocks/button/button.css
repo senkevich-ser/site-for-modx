@@ -7,4 +7,10 @@
   height: 40px;
   padding: 8px 40px;
   margin: 0;
+  transition: 0.3s;
+}
+
+.button:hover {
+  cursor: pointer;
+  transform: scale(1.1)
 }

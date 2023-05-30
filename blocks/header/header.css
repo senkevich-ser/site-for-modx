@@ -7,6 +7,11 @@
   margin-bottom: 65px;
 }
 
+.header a:hover {
+  cursor: pointer;
+  color: rgb(209, 203, 203);
+}
+
 .header__logo {
   grid-column: start/endLogo;
 }
